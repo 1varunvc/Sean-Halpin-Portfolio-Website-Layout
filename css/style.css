@@ -103,6 +103,12 @@ hr{
   border-radius: 100%;
 }
 
+.skill-row{
+  width: 50%;
+  margin: 6.25rem auto 6.25rem auto;
+  text-align: left;
+}
+
 .chillies-img{
   width: 25%;
   float: right;
@@ -112,12 +118,6 @@ hr{
 .bottom-container{
   background-color: rgb(224, 235, 232);
   padding: 3.125rem 0 1.25rem;
-}
-
-.skill-row{
-  width: 50%;
-  margin: 6.25rem auto 6.25rem auto;
-  text-align: left;
 }
 
 .contact-message{

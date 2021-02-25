@@ -1,7 +1,9 @@
 # Sean-Halpin-Portfolio-Website-Layout
 Sean Halpin is a web developer and designer. As said on his website, he occasionaly takes up freelancing opportunities.
 
-This version of his portfolio, although obsolete, is pretty and pretty persuading. It emits a sense of positivity. Hence, this repository. Hope it helps.
+This version of his portfolio, although obsolete, is pretty and pretty persuading. It emits a sense of positivity and professionalism at the same time. Hence, this repository. 
+
+' Hope it helps.
 
 ## Current Features
 * Vanilla imitation of the original layout.
@@ -11,6 +13,8 @@ This version of his portfolio, although obsolete, is pretty and pretty persuadin
 * Improved mobile compatibilty. Please provide your valuable reviews on the way website responds on your devices.
 * Addition of 'Work' and 'About' section and their respective webpage layouts.
 * Improvement in overall look and feel of the website.
+* Fixed, responsive and interactive navigation bar.
+* Addition of interactive elements under 'Skills' section using JavaScript.
 * Multiple 'builds' of this website.
 * Internal documentation in the open code.
 

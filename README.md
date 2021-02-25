@@ -41,4 +41,4 @@ https://web.archive.org/web/20210209214630/https://www.seanhalpin.design/
 # Notes
 _**Under development.**_
 
-_**Only for eductional and learning purpose**_
+_**Only for eductional and learning purpose.**_

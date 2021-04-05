@@ -21,8 +21,6 @@ https://web.archive.org/web/20210209214630/https://www.seanhalpin.design/
 ## Desktop
 ![v0 2 0](https://user-images.githubusercontent.com/71169556/113590889-da5cd880-9650-11eb-97cb-3086bb3f7d50.png)
 
-## Mobile
-
 ## Current Features
 * Vanilla imitation of the original layout.
 * Mobile compatibilty.

@@ -5,19 +5,6 @@ This version of his portfolio, although obsolete, is pretty and pretty persuadin
 
 ' Hope it helps.
 
-## Current Features
-* Vanilla imitation of the original layout.
-* Mobile compatibilty.
-
-## Expected Features
-* Improved mobile compatibilty. Please provide your valuable reviews on the way website responds on your devices.
-* Addition of 'Work' and 'About' section and their respective webpage layouts.
-* Improvement in overall look and feel of the website.
-* Fixed, responsive and interactive navigation bar.
-* Addition of interactive elements under 'Skills' section using JavaScript.
-* Multiple 'builds' of this website.
-* Internal documentation in the open code.
-
 ## Important Links
 Deployed at:
 
@@ -30,6 +17,25 @@ https://web.archive.org/web/20200903104709/http://seanhalpin.io/
 Sean Halpin's current portfolio layout:
 
 https://web.archive.org/web/20210209214630/https://www.seanhalpin.design/
+
+## Desktop
+![v0 2 0](https://user-images.githubusercontent.com/71169556/113590889-da5cd880-9650-11eb-97cb-3086bb3f7d50.png)
+
+## Mobile
+
+
+## Current Features
+* Vanilla imitation of the original layout.
+* Mobile compatibilty.
+
+## Expected Features
+* Improved mobile compatibilty. Please provide your valuable reviews on the way website responds on your devices.
+* Addition of 'Work' and 'About' section and their respective webpage layouts.
+* Improvement in overall look and feel of the website.
+* Fixed, responsive and interactive navigation bar.
+* Addition of interactive elements under 'Skills' section using JavaScript.
+* Multiple 'builds' of this website.
+* Internal documentation in the open code.
 
 ## Developer Release Notes
 ###### v0.2.0

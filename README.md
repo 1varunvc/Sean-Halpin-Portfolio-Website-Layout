@@ -40,7 +40,7 @@ https://web.archive.org/web/20210209214630/https://www.seanhalpin.design/
 * Somewhat cleared the clutter of unwanted 'rem' and changed it to '%' and 'px', wherever found necessary. A proper drying of the code has **not** been done yet.
 * Added and modified a few more classes, as required.
 * Used @media for the mobile compatibility.
-* A @media tag is commented. It is intended to make the website compatible with more devices. Unfortunately, it didn't bear fruits yet. It is there as a reminder to improve the compatibilty to more viewports.
+* An @media tag is commented. It is intended to make the website compatible with more devices. Unfortunately, it didn't bear fruits yet. It is there as a reminder to improve the compatibilty to more viewports.
 * The mobiltity of 'clouds' is yet to be improved.
 
 ###### v0.1.0

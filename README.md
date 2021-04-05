@@ -49,6 +49,4 @@ https://web.archive.org/web/20210209214630/https://www.seanhalpin.design/
 * The code here is completely different from that of actual website.
 
 ## Notes
-_**Under development.**_
-
-_**Only for eductional and learning purpose.**_
+_**Strictly meant for eductional and learning purpose.**_

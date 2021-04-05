@@ -23,7 +23,6 @@ https://web.archive.org/web/20210209214630/https://www.seanhalpin.design/
 
 ## Mobile
 
-
 ## Current Features
 * Vanilla imitation of the original layout.
 * Mobile compatibilty.
